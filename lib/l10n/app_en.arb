@@ -1,0 +1,94 @@
+{
+    "lang": "English",
+    "@lang": {
+      "description": "Current app language"
+    },
+    "nearby": "Nearby",
+    "@nearby": {
+      "description": "Navbar label for Nearby page"
+    },
+    "saved": "Saved",
+    "@saved": {
+      "description": "Navbar label for Saved page"
+    },
+    "explore": "Explore",
+    "@explore": {
+      "description": "Navbar label for Explore page"
+    },
+    "notices": "News",
+    "@notices": {
+      "description": "Navbar label for News page"
+    },
+    "tools": "Tools",
+    "@tools": {
+      "description": "Navbar label for Tools page"
+    },
+    "newsTitle": "Traffic news",
+    "@newsTitle": {
+      "description": "Heading of News page"
+    },
+    "td": "Transport Department",
+    "@td": {
+      "description": "Transport Department"
+    },
+    "tdSource": "Transport Department (data.gov.hk)",
+    "@tdSource": {
+      "description": "Text for TD in source footer of News page"
+    },
+    "tdNewsLocale": "EN",
+    "@tdNewsLocale": {
+      "description": "Locale code for TD traffic news API"
+    },
+    "rthk": "RTHK",
+    "@rthk": {
+      "description": "RTHK"
+    },
+    "timeagoLocale": "en_short",
+    "@timeagoLocale": {
+      "description": "Locale code for date conversion with timeago"
+    },
+    "to": "to",
+    "@to": {
+        "description": "to"
+    },
+    "near": "near",
+    "@near": {
+        "description": "near"
+    },
+    "newsSource": "Source",
+    "@newsSource": {
+        "description": "Source of traffic news"
+    },
+    "settingCancel": "Cancel",
+    "@settingCancel": {
+      "description": "Cancel button"
+    },
+    "settingOK": "OK",
+    "@settingOK": {
+      "description": "OK button"
+    },
+    "settingLang": "Language",
+    "@settingLang": {
+        "description": "Title of language setting"
+    },
+    "defaultLang": "System default",
+    "@defaultLang": {
+        "description": "System default language"
+    },
+    "langRestart": "Restart the app to apply language setting.",
+    "@langRestart": {
+        "description": "Prompt user to restart app to apply language setting"
+    },
+    "settingTheme": "Theme",
+    "@settingTheme": {
+        "description": "Title of theme setting"
+    },
+    "lightTheme": "Light",
+    "@lightTheme": {
+        "description": "Light theme"
+    },
+    "darkTheme": "Dark",
+    "@darkTheme": {
+        "description": "Dark theme"
+    }
+}
